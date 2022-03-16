@@ -4,6 +4,8 @@ Project in React + Typescript making a calculator of BMI
 
 Project developed during the [B7Web](https://www.b7web.com.br) course.
 
+Check the project here: [BMI Calculator](calculator-bmi-b7web.netlify.app)
+
 ### Installation
 
 - `yarn install`
